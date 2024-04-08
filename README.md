@@ -20,8 +20,8 @@ runGitHub(repo="image-analysis-II", username = "Alan-Prestes", ref="main")
 ```
 
 ## Como proceder :punch:
-**1.** Importe a imagem desejada (em formato PNG ou JPEG); <br />
-**2.** Após escolher o arquivo, clique em **_Importar_**; <br />
+**1.** Importe a imagem desejada (em formato PNG ou JPEG). <br />
+**2.** Após escolher o arquivo, clique em **_Importar_**. <br />
 ![Passo1](https://github.com/Alan-Prestes/Image-Analysis-II/assets/87569077/c34f5739-9703-4be8-9181-cba297f02406)
 
 **3.** Caso deseje editar a imagem importada, clique em **_“Formatar imagem”_**. <br />
@@ -37,19 +37,19 @@ runGitHub(repo="image-analysis-II", username = "Alan-Prestes", ref="main")
 **5.** Escolha o melhor índice de segmentação (há disponível 25 índices diferentes);<br />
 ![Passo4](https://github.com/Alan-Prestes/Image-Analysis-II/assets/87569077/2da4beb0-0853-4390-9daa-6de24f640c4c)
 
-**6.** Clique em **_“Segmentação do fundo”_** para a segmentação da área total da imagem;<br />
+**6.** Clique em **_“Segmentação do fundo”_** para a segmentação da área total da imagem. <br />
 ![Passo5](https://github.com/Alan-Prestes/Image-Analysis-II/assets/87569077/e537f4a3-aab1-43a5-b151-b9265d0c31d8)
 
 **6.** O Objetivo nesta seção é deixar o **_objeto-alvo (foreground)_** da cor branca (presença de pixel) e o **_fundo (background)_** da cor preta (ausência de pixel); <br />
 **6.1** Escolha o melhor índice (definido na etapa 5); <br />
-**6.2** Definição do limiar (threshold). OBS: utilize a imagem à esquerda para definir o melhor valor; <br />
+**6.2** Definição do limiar **_(Threshold)_**. OBS: utilize a imagem à esquerda para definir o melhor valor; <br />
 **6.3** Caso deseja selecionar pixels maior que o limiar, marque a caixa; <br />
 **6.4** Caso deseje desconsiderar valores nulos no background (fundo), assinale a caixa;<br />
 **6.5** Caso haja ruídos (pixels escuros) no interior do foreground (objeto-alvo), assinale esta caixa. <br />
 ![Passo6](https://github.com/Alan-Prestes/Image-Analysis-II/assets/87569077/9e7f4ac9-57f5-4334-bfde-b994d089e824)
 
-**7.** Clique em **_“Segmentação da área”_** para a segmentação da área-alvo (área a ser medida);<br />
-OBS: O Objetivo nesta seção é deixar o **_objeto-alvo (foreground)_** da cor branca (presença de pixel) e o **_fundo (background)_** da cor preta (ausência de pixel);<br />
+**7.** Clique em **_“Segmentação da área”_** para a segmentação da área-alvo (área a ser medida). <br />
+OBS: O Objetivo nesta seção é deixar o **_objeto-alvo (foreground)_** da cor branca (presença de pixel) e o **_fundo (background)_** da cor preta (ausência de pixel). <br />
 ![Passo7](https://github.com/Alan-Prestes/Image-Analysis-II/assets/87569077/16ea6b5a-968f-411d-b0b2-d98e176dc2a7)
 
 **7.1** Escolha o melhor índice (definido na etapa 5); <br />
@@ -57,14 +57,14 @@ OBS: O Objetivo nesta seção é deixar o **_objeto-alvo (foreground)_** da cor 
 **7.3** Caso deseja selecionar pixels maior que o limiar, marque a caixa;<br />
 **7.4** Caso deseje desconsiderar valores nulos no background (fundo), assinale a caixa<br />
 **7.5** Caso haja ruídos (pixels escuros) no interior do foreground (objeto-alvo), assinale esta caixa. <br />
-**8.** Definidos todos os parâmetros para a segmentação, clique em **_“Definir percentagem”_**; <br />
+**8.** Definidos todos os parâmetros para a segmentação, clique em **_“Definir percentagem”_**. <br />
 ![Passo8](https://github.com/Alan-Prestes/Image-Analysis-II/assets/87569077/f40bd59e-16c0-4c43-9141-651d365015b6)
 
-**9.** Direcione-se a aba **_“Percentagem”_**.<br />
+**9.** Direcione-se a aba **_“Percentagem”_**; <br />
 **9.1** Imagem original no início do processo;<br />
 **9.2** Imagem com a área segmentada (a ser medida) colorida;<br />
 **9.3** Imagem com a área segmentada (a ser medida) circulada;<br />
-**9.4** Determinação da percentagem a área segmentada;<br />
+**9.4** Determinação da percentagem a área segmentada. <br />
 ![Passo9](https://github.com/Alan-Prestes/Image-Analysis-II/assets/87569077/11a7cacc-f1a9-48d0-9ada-2aa992871241)
 
 ### Pacotes utilizados
