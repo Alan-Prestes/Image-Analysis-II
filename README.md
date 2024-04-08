@@ -22,8 +22,7 @@ runGitHub(repo="image-analysis-II", username = "Alan-Prestes", ref="main")
 ## Como proceder :punch:
 **1.** Importe a imagem desejada (em formato PNG ou JPEG); <br />
 **2.** Após escolher o arquivo, clique em **_Importar_**; <br />
-
-![Passo 1](https://github.com/Alan-Prestes/Image-Analysis-II/assets/87569077/287d9b75-1bc8-4725-86fb-d2deac77ef7c)
+![Passo1](https://github.com/Alan-Prestes/Image-Analysis-II/assets/87569077/c34f5739-9703-4be8-9181-cba297f02406)
 
 **3.** Caso deseje editar a imagem importada, clique em **_“Formatar imagem”_**. <br />
 ![Passo2](https://github.com/Alan-Prestes/Image-Analysis-II/assets/87569077/f02435d1-da2e-4f40-87b2-2e1bfc10240b)
