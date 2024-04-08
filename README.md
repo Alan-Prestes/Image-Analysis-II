@@ -60,11 +60,11 @@ OBS: O Objetivo nesta seção é deixar o **_objeto-alvo (foreground)_** da cor 
 **8.** Definidos todos os parâmetros para a segmentação, clique em **_“Definir percentagem”_**; <br />
 ![Passo8](https://github.com/Alan-Prestes/Image-Analysis-II/assets/87569077/f40bd59e-16c0-4c43-9141-651d365015b6)
 
-**9.** Direcione-se a aba ** _“Percentagem”_**.
-**9.1** Imagem original no início do processo;
-**9.2** Imagem com a área segmentada (a ser medida) colorida;
-**9.3** Imagem com a área segmentada (a ser medida) circulada;
-**9.4** Determinação da percentagem a área segmentada;
+**9.** Direcione-se a aba ** _“Percentagem”_**.<br />
+**9.1** Imagem original no início do processo;<br />
+**9.2** Imagem com a área segmentada (a ser medida) colorida;<br />
+**9.3** Imagem com a área segmentada (a ser medida) circulada;<br />
+**9.4** Determinação da percentagem a área segmentada;<br />
 ![Passo9](https://github.com/Alan-Prestes/Image-Analysis-II/assets/87569077/11a7cacc-f1a9-48d0-9ada-2aa992871241)
 
 ### Pacotes utilizados
