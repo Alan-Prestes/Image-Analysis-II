@@ -48,7 +48,7 @@ runGitHub(repo="image-analysis-II", username = "Alan-Prestes", ref="main")
 **6.5** Caso haja ruídos (pixels escuros) no interior do foreground (objeto-alvo), assinale esta caixa. <br />
 ![Passo6](https://github.com/Alan-Prestes/Image-Analysis-II/assets/87569077/9e7f4ac9-57f5-4334-bfde-b994d089e824)
 
-**7.** Clique em **_“Segmentação da área”_** para a segmentação da área-alvo (área a ser medida);
+**7.** Clique em **_“Segmentação da área”_** para a segmentação da área-alvo (área a ser medida);<br />
 OBS: O Objetivo nesta seção é deixar o **_objeto-alvo (foreground)_** da cor branca (presença de pixel) e o **_fundo (background)_** da cor preta (ausência de pixel);<br />
 ![Passo7](https://github.com/Alan-Prestes/Image-Analysis-II/assets/87569077/16ea6b5a-968f-411d-b0b2-d98e176dc2a7)
 
