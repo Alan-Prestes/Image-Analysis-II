@@ -65,7 +65,7 @@ OBS: O Objetivo nesta seção é deixar o **_objeto-alvo (foreground)_** da cor 
 **9.2** Imagem com a área segmentada (a ser medida) colorida;<br />
 **9.3** Imagem com a área segmentada (a ser medida) circulada;<br />
 **9.4** Determinação da percentagem a área segmentada. <br />
-![Passo9](https://github.com/Alan-Prestes/Image-Analysis-II/assets/87569077/11a7cacc-f1a9-48d0-9ada-2aa992871241)
+![Passo9](https://github.com/Alan-Prestes/Image-Analysis-II/assets/87569077/6a78b406-4dc9-421c-8297-a449f5ff1d68)
 
 ### Pacotes utilizados
 * ExpImage: [CRAN](https://cran.r-project.org/web/packages/ExpImage/ExpImage.pdf)
