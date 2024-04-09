@@ -61,7 +61,7 @@ OBS: O Objetivo nesta seção é deixar o **_objeto-alvo (foreground)_** da cor 
 ![Passo8](https://github.com/Alan-Prestes/Image-Analysis-II/assets/87569077/f40bd59e-16c0-4c43-9141-651d365015b6)
 
 **9.** Direcione-se a aba **_“Percentagem”_**; <br />
-**9.1** Imagem original no início do processo;<br />
+**9.1** Imagem original;<br />
 **9.2** Imagem com a área segmentada (a ser medida) colorida;<br />
 **9.3** Imagem com a área segmentada (a ser medida) circulada;<br />
 **9.4** Determinação da percentagem a área segmentada. <br />
